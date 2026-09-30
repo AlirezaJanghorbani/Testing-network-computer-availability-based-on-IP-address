@@ -1,0 +1,1 @@
+During development, we identified a critical performance bottleneck: the sequential for-loop approach was excessively slow. Consequently, we decided to overhaul the entire algorithm in favor of a concurrent execution model.
